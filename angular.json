@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "alyul"
+    }
+  },
+  "defaultProject": "alyul",
+  "cli": {
+    "analytics": false
+  }
 }
